@@ -9,12 +9,14 @@ import SwiftUI
 
 struct FullScreenView: View {
     var body: some View {
-        Text("FullScreenView")
+       
+        var now = Text(Date(), style: .date)
+            
+        Text("Today's Date is: \n\(now)")
             .font(.largeTitle)
             .frame(maxWidth: .infinity, maxHeight: .infinity)
             .background(Color.purple)
-            .edgesIgnoringSafeArea(/*@START_MENU_TOKEN@*/.all/*@END_MENU_TOKEN@*/)
-        
+            .edgesIgnoringSafeArea(.all)
     }
 }
 
