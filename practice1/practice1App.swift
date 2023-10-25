@@ -11,7 +11,7 @@ import SwiftUI
 struct practice1App: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            PaddingTest1()
         }
     }
 }
