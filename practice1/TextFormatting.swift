@@ -11,6 +11,7 @@ struct TextFormatting: View {
     var body: some View {
         
         Label("My Favorite Bands", systemImage: "music.note")
+            .padding(.horizontal, 6)
             .font(.largeTitle)
             .bold()
             .kerning(3)
