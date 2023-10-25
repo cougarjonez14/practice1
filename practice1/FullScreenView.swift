@@ -9,7 +9,12 @@ import SwiftUI
 
 struct FullScreenView: View {
     var body: some View {
-        Text("")
+        Text("FullScreenView")
+            .font(.largeTitle)
+            .frame(maxWidth: .infinity, maxHeight: .infinity)
+            .background(Color.purple)
+            .edgesIgnoringSafeArea(/*@START_MENU_TOKEN@*/.all/*@END_MENU_TOKEN@*/)
+        
     }
 }
 
