@@ -14,6 +14,7 @@
 		A2C1D0AF2AE8C4B0003C326E /* PaddingTest2.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2C1D0AE2AE8C4B0003C326E /* PaddingTest2.swift */; };
 		A2C1D0B32AE8CC58003C326E /* FullScreenView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2C1D0B22AE8CC58003C326E /* FullScreenView.swift */; };
 		A2C1D0B52AE8D1AB003C326E /* TextFormatting.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2C1D0B42AE8D1AB003C326E /* TextFormatting.swift */; };
+		A2C1D0B72AE8D9C5003C326E /* TextField|SecureField.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2C1D0B62AE8D9C5003C326E /* TextField|SecureField.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,6 +26,7 @@
 		A2C1D0AE2AE8C4B0003C326E /* PaddingTest2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PaddingTest2.swift; sourceTree = "<group>"; };
 		A2C1D0B22AE8CC58003C326E /* FullScreenView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FullScreenView.swift; sourceTree = "<group>"; };
 		A2C1D0B42AE8D1AB003C326E /* TextFormatting.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextFormatting.swift; sourceTree = "<group>"; };
+		A2C1D0B62AE8D9C5003C326E /* TextField|SecureField.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "TextField|SecureField.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				A2C1D0AE2AE8C4B0003C326E /* PaddingTest2.swift */,
 				A2C1D0B22AE8CC58003C326E /* FullScreenView.swift */,
 				A2C1D0B42AE8D1AB003C326E /* TextFormatting.swift */,
+				A2C1D0B62AE8D9C5003C326E /* TextField|SecureField.swift */,
 				A28BB46B2AE8B681009722E5 /* Assets.xcassets */,
 				A28BB46D2AE8B681009722E5 /* Preview Content */,
 			);
@@ -150,6 +153,7 @@
 				A2C1D0B52AE8D1AB003C326E /* TextFormatting.swift in Sources */,
 				A2C1D0B32AE8CC58003C326E /* FullScreenView.swift in Sources */,
 				A28BB4682AE8B680009722E5 /* practice1App.swift in Sources */,
+				A2C1D0B72AE8D9C5003C326E /* TextField|SecureField.swift in Sources */,
 				A2C1D0AF2AE8C4B0003C326E /* PaddingTest2.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
